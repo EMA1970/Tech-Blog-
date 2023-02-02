@@ -34,12 +34,12 @@ Code Editor: Visual Studio
 ## Usage
 1. Open this repo in a text editor 
 2. Create a .env file and insert text in the following format : 
-  `DB_NAME='tech_blog'
-   DB_USER='root'
-   DB_PASSWORD='Nala1007'` 
-3. Open the integrated terminal in the folder. Enter `npm install ` to install all dependencies 
-4. Open the schema folder, copy and paste the code into MYSQL workbench and query run to start a database 
-5. Go back to the integrated terminal and then enter npm start to start the application on your local machine. 
+    `DB_NAME=''
+    DB_USER=''
+    DB_PASSWORD=''` 
+1. Open the integrated terminal in the folder. Enter `npm install ` to install all dependencies 
+2. Open the schema folder, copy and paste the code into MYSQL workbench and query run to start a database 
+3. Go back to the integrated terminal and then enter npm start to start the application on your local machine. 
 
 ## Deployed URL 
 
