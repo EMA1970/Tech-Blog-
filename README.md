@@ -6,6 +6,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Deployed URL](#deployed-url)
+  - [License](#license)
   - [Screenshot](#screenshot)
   - [Contribution](#contribution)
 
@@ -44,7 +45,8 @@ Code Editor: Visual Studio
 
 
 
-
+## License
+MIT license 
 
 ## Screenshot 
 
